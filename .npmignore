@@ -35,6 +35,13 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
-# Editor Configs
+# Project Specific.
 .idea
-/docs
+test
+docs
+
+.eslintrc
+.gitignore
+.jscsrc
+.npmignore
+jsdoc.json

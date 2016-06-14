@@ -8,7 +8,7 @@
         "docs": "jsdoc -d docs -c jsdoc.json lib -R readme.md && open docs/index.html",
         "simple-docs": "jsdoc -d docs lib -r -R readme.md && open docs/index.html"
     },
-    "author": "",
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name>",
     "license": "MIT",
     "dependencies": {
         "cli-color": "^1.1.0",
@@ -22,5 +22,25 @@
     },
     "devDependencies": {
         "ink-docstrap": "^1.2.1"
+    },
+    "directories": {
+        "doc": "docs",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stater/semen.git"
+    },
+    "keywords": [
+        "nano",
+        "service",
+        "framework"
+    ],
+    "bugs": {
+        "url": "https://github.com/stater/semen/issues"
+    },
+    "homepage": "https://github.com/stater/semen#readme",
+    "engines": {
+        "node": ">=6.0.0"
     }
 }
