@@ -1,0 +1,22 @@
+{
+    "opts": {
+        "recurse": true,
+        "template": "./node_modules/ink-docstrap/template"
+    },
+    "templates": {
+        "systemName": "Stater",
+        //        "footer": "Detailed documentations is in progress.",
+        "copyright": "© 2016 Stater. All right reserved.",
+        "includeDate": true,
+        "navType": "inline",
+        "theme": "cosmo",
+        "linenums": true,
+        "collapseSymbols": false,
+        "inverseNav": "{boolean}",
+        //        "outputSourceFiles": false,
+        //        "outputSourcePath": true,
+        //        "dateFormat": "{string}",
+        //        "syntaxTheme": "{string}",
+        "sort": true
+    }
+}

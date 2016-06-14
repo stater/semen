@@ -1,0 +1,19 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "rules": {
+        "no-undef": "off",
+        "no-var": "error",
+        "object-shorthand": "error",
+        "prefer-spread": "error",
+        "prefer-arrow-callback": "error",
+        "prefer-template": "warn"
+    }
+}

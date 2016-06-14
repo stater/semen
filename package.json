@@ -1,0 +1,26 @@
+{
+    "name": "semen",
+    "version": "1.0.0",
+    "description": "A Nano Service Framework for NodeJS",
+    "main": "lib/stater.js",
+    "scripts": {
+        "test": "node test",
+        "docs": "jsdoc -d docs -c jsdoc.json lib -R readme.md && open docs/index.html",
+        "simple-docs": "jsdoc -d docs lib -r -R readme.md && open docs/index.html"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "cli-color": "^1.1.0",
+        "cli-spinner": "^0.2.5",
+        "fs-extra": "^0.30.0",
+        "glob": "^7.0.3",
+        "jsmicro-foreach": "^1.0.1",
+        "jsmicro-typeof": "^1.0.3",
+        "semver": "^5.1.0",
+        "strip-ansi": "^3.0.1"
+    },
+    "devDependencies": {
+        "ink-docstrap": "^1.2.1"
+    }
+}

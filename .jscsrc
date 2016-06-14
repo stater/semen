@@ -1,0 +1,14 @@
+{
+    "preset": "google",
+    "validateIndentation": 4,
+    "requireCurlyBraces": null,
+    "maximumLineLength": null,
+    "disallowMultipleVarDecl": null,
+    "disallowTrailingWhitespace": null,
+    "disallowMultipleVarDecl": null,
+    "disallowSpacesInsideObjectBrackets": null,
+    "disallowSpacesInsideArrayBrackets": null,
+    "requireCamelCaseOrUpperCaseIdentifiers": null,
+    "jsDoc": null,
+    "requireSemicolons": null
+}
