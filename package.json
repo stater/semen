@@ -1,8 +1,8 @@
 {
     "name": "semen",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A Nano Service Framework for NodeJS",
-    "main": "lib/stater.js",
+    "main": "./lib/stater.js",
     "scripts": {
         "test": "node test",
         "docs": "jsdoc -d docs -c jsdoc.json lib -R readme.md && open docs/index.html",
