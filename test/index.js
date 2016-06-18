@@ -1,8 +1,8 @@
 'use strict';
 
-const Stater = require('./../lib/stater');
+const Semen = require('./../lib/semen');
 
-let app = new Stater();
+let app = new Semen();
 
 app.bootstrap('test/services/**/*.js');
 
