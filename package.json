@@ -1,6 +1,6 @@
 {
     "name": "semen",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "A Nano Service Framework for NodeJS",
     "main": "./lib/semen.js",
     "scripts": {
